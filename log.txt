@@ -3,3 +3,4 @@ Second Log
 a
 b
 c
+d
