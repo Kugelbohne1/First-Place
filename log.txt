@@ -1,2 +1,2 @@
-First log
-second log
+First Log
+Second Log
