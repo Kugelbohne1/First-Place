@@ -1,4 +1,3 @@
 First Log abcdefghijklmnopqrstuvwxyz
 Second Log
 a
-b
